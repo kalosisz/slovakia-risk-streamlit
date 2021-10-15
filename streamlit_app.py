@@ -5,7 +5,7 @@ from functions import (get_infection_data,
                        get_pydeck_chart,
                        )
 
-st.set_page_config(page_title='Berlin risk assessment',
+st.set_page_config(page_title='Slovakia risk assessment',
                    page_icon='favicon.ico',
                    layout="wide")
 
